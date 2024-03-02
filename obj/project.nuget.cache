@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ilIoTQwqrovzlZZwHd1iYW0l/A6wZDWSyvkeE77altEDF7ARPsIP6KblsWlOY8CJAb3MWmq6e68jBed/bvykLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nika\\source\\repos\\HtmlParser\\HtmlParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nika\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512",
+    "C:\\Users\\Nika\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
